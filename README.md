@@ -1,4 +1,4 @@
-# This is Natural Language Processing project for Word Cloud generation and NER.
+# This is the Natural Language Processing project for Word Cloud generation and NER.
 ![BarPlot_NounCategories_Frequencies](https://user-images.githubusercontent.com/74416396/211200894-05eba5da-33ef-4513-99b3-68a2d229963a.png)
 ![BarPlot_verbCategories_Frequencies](https://user-images.githubusercontent.com/74416396/211200900-fc028b5c-e92d-4cea-af17-33ee4ce1c17f.png)
 ![BarPlot_Word_frequency_with_stop_word](https://user-images.githubusercontent.com/74416396/211200906-08ec3f84-d7cd-4481-9f81-8c9fe1c19cf9.png)
