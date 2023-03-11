@@ -6,3 +6,4 @@
 ![BarPlot_WordLength_frequency](https://user-images.githubusercontent.com/74416396/211200913-72ab2711-ad9c-4bca-b2d9-11ffa73d8037.png)
 ![WordCloud_With_StopWords](https://user-images.githubusercontent.com/74416396/211200917-1d69365a-7e20-410f-9511-b7905f405d7e.png)
 ![WordCloud_without_stopWords](https://user-images.githubusercontent.com/74416396/211200920-2144808f-025e-4c17-97c8-5b55890b6408.png)
+![domains](https://user-images.githubusercontent.com/74416396/224504156-0f4fdce0-28fa-4a26-8b9a-5ee657067c4c.PNG)
